@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:scrollbarStyle="outsideOverlay"
-    tools:context=".Cach1Framgnet">
+    tools:context=".fragment.Cach1Framgnet">
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"

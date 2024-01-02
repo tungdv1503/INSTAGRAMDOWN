@@ -1,4 +1,4 @@
-package com.example.instagramdown;
+package com.example.instagramdown.fragment;
 
 import android.graphics.Color;
 import android.graphics.LinearGradient;
@@ -11,6 +11,8 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
+
+import com.example.instagramdown.R;
 
 
 public class Cach2Fragment extends Fragment {

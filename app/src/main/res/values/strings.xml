@@ -6,15 +6,21 @@
     <string name="share_to">Chia sẻ tới...</string>
     <string name="delete">Xóa</string>
     <string name="help">Hướng dẫn sử dụng</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="buoc1_cach1">Mở ứng dụng, nhấp vào “Chia sẻ lên” của bài đăng</string>
-    <string name="buoc2_cach1">Nhấp vào “Sao chép liên kết" rồi mở app “DOUYIN SAVER"</string>
+    <string name="buoc1_cach1">Mở Instagram, truy cập video muốn tải về</string>
+    <string name="buoc2_cach1">Nhấp vào “Sao chép liên kết" rồi mở app “Instagram Down"</string>
     <string name="buoc3_cach1">Dán liên kết vừa sao chép vào đây, và tải về video thôi</string>
     <string name="DaHieu">Đã hiểu</string>
     <string name="nameCach2">Tải  xuống bằng cách chia sẻ</string>
     <string name="buoc2_cach2">Vuốt sang trái và nhấp vào “Khác"</string>
     <string name="tuychontaixuong">Tuỳ chọn tải xuống</string>
     <string name="hint_link">https://www.facebook.com/</string>
-
+    <string name="no_internet">Không có kết nối internet</string>
+    <string name="share_file">Chia sẻ file qua</string>
+    <string name="api_key">73135137fcmsh589dcae25a44bf0p198052jsn12c80012d291</string>
+    <string name="api_host">social-content-api.p.rapidapi.com</string>
+    <string name="url_api">https://social-content-api.p.rapidapi.com/instagram/get-video-download-url</string>
+    <string name="no_file_download">Chưa có mục tải xuống</string>
+    <string name="AD_UNIT_ID">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="ADS_ID">ca-app-pub-3940256099942544~3347511713</string>
 </resources>
